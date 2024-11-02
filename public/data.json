@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "covering": "https://picsum.photos/600/400",
+      "title": "The Rise of Modern Web Development",
+      "author": "Jane Smith",
+      "author_img": "https://picsum.photos/100/100",
+      "reading_time": 8,
+      "posted_date": "2024-10-15",
+      "hashtags": ["#WebDevelopment", "#Programming", "#CodingTips"]
+    },
+    {
+      "id": 2,
+      "covering": "https://picsum.photos/600/400",
+      "title": "Understanding REST APIs",
+      "author": "John Doe",
+      "author_img": "https://picsum.photos/100/101",
+      "reading_time": 6,
+      "posted_date": "2024-09-20",
+      "hashtags": ["#APIs", "#WebAPIs", "#TechBlog"]
+    },
+    {
+      "id": 3,
+      "covering": "https://picsum.photos/600/400",
+      "title": "Introduction to Machine Learning",
+      "author": "Emily White",
+      "author_img": "https://picsum.photos/100/102",
+      "reading_time": 12,
+      "posted_date": "2024-11-01",
+      "hashtags": ["#MachineLearning", "#TechInsights", "#DataBlog"]
+    },
+    {
+      "id": 4,
+      "covering": "https://picsum.photos/600/400",
+      "title": "Styling with CSS and Modern Frameworks",
+      "author": "Michael Brown",
+      "author_img": "https://picsum.photos/100/103",
+      "reading_time": 5,
+      "posted_date": "2024-08-30",
+      "hashtags": ["#CSS", "#WebDesign", "#FrontendBlog"]
+    }
+  ]
+  
